@@ -18,7 +18,7 @@ Pick a language below and run its setup script:
 ### 🐍 Python
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/festuskerich/project-starters/main/python.sh)
+bash <(curl -s https://raw.githubusercontent.com/festuskerich/project-generator/main/python.sh)
 ```
 ### 🐹 GO
 ``` bash
